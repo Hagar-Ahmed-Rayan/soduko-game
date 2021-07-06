@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SODOKU2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  actionGaming.cpp
+D:\lastsoduko game\lastgame\lastgame\actionGaming.cpp(192,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sittingGame.cpp
+  SourceGame.cpp
+D:\lastsoduko game\lastgame\lastgame\SourceGame.cpp(16,16): warning C4101: 'choose2': unreferenced local variable
+  Generating Code...
+D:\lastsoduko game\lastgame\lastgame\actionGaming.cpp(234): warning C4715: 'actionGaming::askHelp': not all control paths return a value
+  lastgame.vcxproj -> D:\lastsoduko game\lastgame\lastgame\Debug\lastgame.exe

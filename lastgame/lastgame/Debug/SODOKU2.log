@@ -1,0 +1,4 @@
+﻿  actionGaming.cpp
+C:\Users\هديل\source\repos\SODOKU2\SODOKU2\actionGaming.cpp(192,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\هديل\source\repos\SODOKU2\SODOKU2\actionGaming.cpp(234): warning C4715: 'actionGaming::askHelp': not all control paths return a value
+  SODOKU2.vcxproj -> C:\Users\هديل\source\repos\SODOKU2\Debug\SODOKU2.exe
